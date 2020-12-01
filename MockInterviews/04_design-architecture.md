@@ -82,3 +82,5 @@
 - Allows for modularity
 - Loose coupling
 - Easier debugging and deployment
+
+[Back to Table of Contents](https://github.com/tashi-ono/GetReady_Notes)

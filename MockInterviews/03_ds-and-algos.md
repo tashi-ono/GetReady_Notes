@@ -67,3 +67,5 @@
 - Find the midpoint and compare to target value
 - Depending on if the midpoint is lower or higher than target then we know to search in the left or right half of the array
 - Reset starting or ending index of part of the array that you will continue your search in
+
+[Back to Table of Contents](https://github.com/tashi-ono/GetReady_Notes)

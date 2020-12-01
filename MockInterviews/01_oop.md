@@ -205,3 +205,5 @@
    - Code to abstractions not to concretion
    - Code against interfaces, not implementation
    - Java code example of other companies being able to change underlying code according to the implementation they needed, which made the code less reusable
+
+[Back to Table of Contents](https://github.com/tashi-ono/GetReady_Notes)

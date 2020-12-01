@@ -43,3 +43,5 @@ NOTE: Most of these questions weren't actually asked in a mock interview, but ma
 
 - 'sprinkling' a few more characters onto your password or data to be hashed so that the hash value is changed from what it would have been
 - protects against brute force and rainbow table (???) attacks
+
+[Back to Table of Contents](https://github.com/tashi-ono/GetReady_Notes)

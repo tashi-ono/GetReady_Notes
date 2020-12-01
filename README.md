@@ -28,11 +28,11 @@
 
 ### [Lecture Notes]()
 
-1. [Objects and Classes]()
-2. [Test Driven Development]()
-3. [REST API]()
-4. [Big O and Search & Sort Algos]()
-5. [Microservices]()
+1. [Objects and Classes](https://github.com/tashi-ono/GetReady_Notes/blob/main/LectureNotes/09-22_object_classes.md)
+2. [Test Driven Development](https://github.com/tashi-ono/GetReady_Notes/blob/main/LectureNotes/09-24_tdd.md)
+3. [REST API](https://github.com/tashi-ono/GetReady_Notes/blob/main/LectureNotes/09-26_rest_api.md)
+4. [Big O and Search & Sort Algos](https://github.com/tashi-ono/GetReady_Notes/blob/main/LectureNotes/09-29_big_o.md)
+5. [Microservices](https://github.com/tashi-ono/GetReady_Notes/blob/main/LectureNotes/10-01_microservices.md)
 
 [Back to Top](#table-of-contents)
 
@@ -42,15 +42,15 @@
 
 ### [Mock Interview Questions]()
 
-1. Object-Oriented Programming
-2. Test Driven Development
-3. Data Structures and Algorithms
-4. Design Patterns and Software Architecture
-5. Cyber Security & Other Questions
-6. Behavioral
+1. [Object-Oriented Programming](https://github.com/tashi-ono/GetReady_Notes/blob/main/MockInterviews/01_oop.md)
+2. [Test Driven Development](https://github.com/tashi-ono/GetReady_Notes/blob/main/MockInterviews/02_tdd.md)
+3. [Data Structures and Algorithms](https://github.com/tashi-ono/GetReady_Notes/blob/main/MockInterviews/03_ds-and-algos.md)
+4. [Design Patterns and Software Architecture](https://github.com/tashi-ono/GetReady_Notes/blob/main/MockInterviews/04_design-architecture.md)
+5. [Cyber Security & Other Questions](https://github.com/tashi-ono/GetReady_Notes/blob/main/MockInterviews/05_cyber-sec.md)
+6. [Behavioral](https://github.com/tashi-ono/GetReady_Notes/blob/main/MockInterviews/Behavioral.md)
 
 [Back to Top](#table-of-contents)
 
-### [Real Interview Questions]()
+### [Real Interview Questions](https://github.com/tashi-ono/GetReady_Notes/blob/main/real-questions.md)
 
 [Back to Top](#table-of-contents)

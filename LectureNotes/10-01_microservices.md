@@ -77,3 +77,5 @@
   - Need to design more fault-tolerant application
   - Identify and ensure core services that my have junctions of high traffic aren't a 'single-point-of-failure'
     - Ex: Back-up servers should be available
+
+[Back to Table of Contents](https://github.com/tashi-ono/GetReady_Notes)

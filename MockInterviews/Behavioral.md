@@ -67,3 +67,5 @@
 
   - [What is the STAR Interview Response Technique?](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629)
     What is the STAR interview response method, how to use it to prepare for job interviews, and examples of questions and answers using the STAR technique.
+
+[Back to Table of Contents](https://github.com/tashi-ono/GetReady_Notes)

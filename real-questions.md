@@ -11,3 +11,5 @@
 6. Which is worse: O(N) or O(log N)?
 7. Explain how a binary search algorithm works.
 8. Explain what MVC stands for.
+
+[Back to Table of Contents](https://github.com/tashi-ono/GetReady_Notes)

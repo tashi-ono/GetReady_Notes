@@ -109,3 +109,5 @@ Person.prototype.speak = function() {
 - [L]iskov Substitution Principle
 - [I]nterface Segregation Principle
 - [D]ependancy Inversion Principle
+
+[Back to Table of Contents](https://github.com/tashi-ono/GetReady_Notes)
